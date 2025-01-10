@@ -1,14 +1,6 @@
-# Group-16 "CMPT 276"
+
 
 ## Game Name - Knight's Quest: The Goblin Heist !
-
-### Instructor - Dr. Saba Alimadadi
-
-### Group Members -  
-Fanyi Luo (fla73@sfu.ca)  
-Manya Sharma (msa261@sfu.ca)  
-Pardeep Manhas (psmanhas@sfu.ca)  
-William Dominic Desa (wdd1@sfu.ca)
 
 ### How to Play the Game - 
 The objective of the game is to navigate the Knight through a labyrinthian map, avoiding dynamite barrels and goblins 
